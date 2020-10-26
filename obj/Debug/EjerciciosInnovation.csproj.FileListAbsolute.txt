@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\obj\Debug\EjerciciosInnovation.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\obj\Debug\EjerciciosInnovation.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\bin\Debug\EjerciciosInnovation.exe.config
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\bin\Debug\EjerciciosInnovation.exe
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\bin\Debug\EjerciciosInnovation.pdb
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\obj\Debug\EjerciciosInnovation.exe
+C:\Users\Benjamin\source\repos\EjerciciosInnovation\EjerciciosInnovation\obj\Debug\EjerciciosInnovation.pdb
